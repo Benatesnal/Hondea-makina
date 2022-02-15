@@ -2,6 +2,7 @@
   More info: https://www.makerguides.com
   This code is licensed under a Creative Commons Attribution 4.0 International license.
   modified by Axpi 2021
+  modified bi Beñat and Ekaitz 2022
 */
 #include <AccelStepper.h>
 // Define stepper motor connections and motor interface type. Motor interface type must be set to 1 when using a driver:
