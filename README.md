@@ -20,6 +20,6 @@
 3. B botioa zapaldu besoa igo eta jaisteko
 4. D botoia zapaldu aurreko besoa mugitzeko
 5. A botoia zapaldu pala ireki eta ixteko
-6. Joystika mugitu hondea makina ezker-eskubi biratzeko
+6. Joystik-a esker-eskubi mugitu hondea makina ezker-eskubi biratzeko
 
 ![csv sample](https://github.com/Benatesnal/Hondea-makina/blob/main/images/1644822991225.jpg)
