@@ -31,7 +31,7 @@ void setup() {
 void loop() {
 
   joystickX = analogRead(0); //  position kontrola
- if (joystickX < 153 || joystickX > 953) {
+ if (joystickX < 153 || joystickX > 953) { //Joystick-a mugitzen bada led-a piztu egiten da
     digitalWrite(ledPin, LOW);
   }
   else {
