@@ -5,13 +5,13 @@
 - 2 JoyStick Shiled 
 - Pasos pausoko motorra (23HS5628)
 - Driver-a (DC:9-42VDC)
-- 3 Errele
-- 3 5/3 balbula monoegonkor
+- 3-Errele
+- 3-5/3 balbula monoegonkor
 - Elikatze iturria
 - Etengailu diferentziala
-- 3 zilindro neumatiko
+- 3-zilindro neumatiko
 - Entxufea
-- 6 emari erregulatzaile
+- 6-emari erregulatzaile
 
 ## Funtzionamendua
 
