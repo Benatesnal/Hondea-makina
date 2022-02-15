@@ -22,4 +22,4 @@
 5. A botoia zapaldu pala ireki eta ixteko
 6. Joystika mugitu hondea makina ezker-eskubi biratzeko
 
-![csv sample](images/irudia.png)
+![csv sample](https://github.com/Benatesnal/Hondea-makina/blob/main/images/1644822991225.jpg)
