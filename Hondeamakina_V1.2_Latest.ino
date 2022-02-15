@@ -106,12 +106,12 @@ void loop() {
   digitalWrite(ledPinB, ledStateB); // LED-a
   digitalWrite(ledPinC, ledStateC); // LED-a
 
-  if (ledStateA == 1 && ledStateB == 1 && ledStateC == 1) {
+  if (ledStateA == 1 && ledStateB == 1 && ledStateC == 1) { //A-B-C Botoiak aktibatuta badaude Led-a piztutzen da
     Serial.println("ITZALI");
     digitalWrite(ledPin, HIGH);
   }
   else {
-    Serial.println("PIZTU");
+    Serial.println("PIZTU"); // A-B-C Botoiak desaktibatuta badaude Led-a itzali egiten da
     digitalWrite(ledPin, LOW);
   }
 
